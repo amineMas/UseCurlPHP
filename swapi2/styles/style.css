@@ -1,0 +1,21 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form{
+    margin-top: 50px;
+}
+@font-face{
+    font-family: "Starjedi" ;
+    src: url("Starjedi.ttf") format('truetype');
+}
+
+
+p{
+    font-family: "Starjedi";
+    color: goldenrod;
+    font-size: 25px;
+    padding-top: 100px;
+}
